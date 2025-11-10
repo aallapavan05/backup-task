@@ -1,4 +1,3 @@
-#!/bin/bash
 SOURCE_DIRS="/c/Users/hp/Desktop/Task1"
 BACKUP_DIR="/c/Users/hp/Desktop/Task1/backup"
 
